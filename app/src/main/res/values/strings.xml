@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Snake</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4527272160231444/6992796415</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
